@@ -4,4 +4,4 @@ The following repository is the code for my personal portfolio project.
 
 ## Status
 
-[![pages-build-deployment](https://github.com/kamyabnazari/personal-website/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/kamyabnazari/personal-website/actions/workflows/pages/pages-build-deployment)
+[![Deploy Hugo site to Pages](https://github.com/kamyabnazari/personal-website/actions/workflows/hugo.yaml/badge.svg)](https://github.com/kamyabnazari/personal-website/actions/workflows/hugo.yaml)
