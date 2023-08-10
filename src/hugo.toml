@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://kamyabnazari.org/'
 languageCode = 'en-us'
 title = 'Kamyab Nazari'
 theme = "PaperMod"
