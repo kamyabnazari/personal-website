@@ -2,3 +2,65 @@ baseURL = 'https://kamyabnazari.org/'
 languageCode = 'en-us'
 title = 'Kamyab Nazari'
 theme = "PaperMod"
+
+[params.profileMode]
+enabled = true
+title = "Kamyab Nazari"
+subtitle = "Everyone has a responsibility to reach one’s true potential."
+imageUrl = "/avatar.jpeg"
+imageTitle = "Avatar"
+imageWidth = 160
+imageHeight = 160
+
+[[params.profileMode.buttons]]
+name = "About Me"
+url = "/about-me"
+
+[[params.profileMode.buttons]]
+name = "Projects"
+url = "/projects"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/kamyabnazari"
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/kamyabnazari"
+
+[params]
+env = "production"
+title = "Kamyab Nazari"
+description = "Personal Portfolio website for my projects and cv."
+keywords = ["Blog", "Portfolio"]
+author = "Kamyab Nazari"
+dataFormat = "January 2, 2006"
+defaultTheme = "auto"
+showBreadCrumbs = true
+showPostNavLinks = true
+showCodeCopyButtons = true
+comments = false
+
+[params.label]
+icon = "/website-icon.png"
+iconHeight = 32
+
+# Menu
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts"
+weight = 10
+
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives"
+weight = 20
+
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact"
+weight = 30
