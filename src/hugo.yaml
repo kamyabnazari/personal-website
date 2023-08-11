@@ -1,0 +1,63 @@
+baseURL: 'https://kamyabnazari.com/'
+languageCode: en-us
+theme: PaperMod
+title: Kamyab Nazari
+copyright: "© 2023 [Kamyab Nazari](/)"
+
+params:
+  env: production
+  description: Personal Portfolio website for my projects and cv.
+  author: Kamyab Nazari
+  keywords:
+    - Blog
+    - Portfolio
+    - Resume
+    - Personal
+    - Software Engineer
+    - Software Developer
+    - Project Manager
+  DateFormat: "January 2, 2006"
+  DefaultTheme: auto
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: false
+  hideFooter: false
+  CanonicalLinkText: "Originally published at"
+  displayFullLangName: false
+  comments: false
+
+  profileMode:
+    enabled: true
+    title: Kamyab Nazari
+    subtitle: Everyone has a responsibility to reach one’s true potential.
+    imageUrl: "profile-avatar.jpeg"
+    imageTitle: Avatar
+    imageWidth: 150
+    imageHeight: 150
+    buttons:
+      - name: About Me
+        url: "/about-me"
+      - name: Projects
+        url: "/projects"
+  
+  socialIcons:
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/kamyabnazari'
+    - name: Github
+      url: 'https://github.com/kamyabnazari'
+  
+  assets:
+    favicon: "favicon.ico"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
+    safari_pinned_tab: "safari-pinned-tab.svg"
+
+menu:
+  main:
+    - identifier: contact
+      name: Contact
+      url: "/contact"
