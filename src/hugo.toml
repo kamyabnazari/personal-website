@@ -3,6 +3,23 @@ languageCode = 'en-us'
 title = 'Kamyab Nazari'
 theme = "PaperMod"
 
+[params]
+env = "production"
+title = "Kamyab Nazari"
+description = "Personal Portfolio website for my projects and cv."
+keywords = ["Blog", "Portfolio"]
+author = "Kamyab Nazari"
+dataFormat = "January 2, 2006"
+defaultTheme = "auto"
+showBreadCrumbs = true
+showPostNavLinks = true
+showCodeCopyButtons = true
+comments = false
+
+[params.label]
+icon = "/website-icon.png"
+iconHeight = 32
+
 [params.profileMode]
 enabled = true
 title = "Kamyab Nazari"
@@ -28,36 +45,7 @@ url = "https://www.linkedin.com/in/kamyabnazari"
 name = "Github"
 url = "https://github.com/kamyabnazari"
 
-[params]
-env = "production"
-title = "Kamyab Nazari"
-description = "Personal Portfolio website for my projects and cv."
-keywords = ["Blog", "Portfolio"]
-author = "Kamyab Nazari"
-dataFormat = "January 2, 2006"
-defaultTheme = "auto"
-showBreadCrumbs = true
-showPostNavLinks = true
-showCodeCopyButtons = true
-comments = false
-
-[params.label]
-icon = "/website-icon.png"
-iconHeight = 32
-
 # Menu
-
-[[menu.main]]
-identifier = "posts"
-name = "Posts"
-url = "/posts"
-weight = 10
-
-[[menu.main]]
-identifier = "archives"
-name = "Archives"
-url = "/archives"
-weight = 20
 
 [[menu.main]]
 identifier = "contact"
