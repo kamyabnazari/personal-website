@@ -21,13 +21,17 @@ params:
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: false
   UseHugoToc: false
   hideFooter: false
   CanonicalLinkText: "Originally published at"
   displayFullLangName: false
   comments: false
+
+  cover:
+    linkFullImages: true
+    responsiveImages: true
 
   profileMode:
     enabled: true

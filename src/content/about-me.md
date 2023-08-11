@@ -1,7 +1,10 @@
 ---
 title: "About Me"
-date: 2023-08-10T19:06:59+02:00
+ShowBreadCrumbs: false
+hidemeta: true
 draft: false
 ---
 
-### About Me
+## Who am I?
+
+My name is Kamyab Nazari. I am a software engineer and it project manager.

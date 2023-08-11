@@ -1,7 +1,16 @@
 ---
 title: "Contact"
-date: 2023-08-10T19:06:59+02:00
+ShowBreadCrumbs: false
+hidemeta: true
 draft: false
 ---
 
-### Contact
+## How to contact me
+
+You can contact me via email [kamyabnazari@icloud.com](mailto:kamyabnazari@icloud.com)
+
+Or try to connect with me on [LinkedIn](https://www.linkedin.com/in/kamyabnazari/)
+
+## Collaborate
+
+If you want to collaborate on a project, you can find me on [GitHub](https://github.com/kamyabnazari)
