@@ -24,6 +24,7 @@ params:
   ShowShareButtons: false
   ShowWordCount: false
   ShowRssButtonInSectionTermList: false
+  hideSummary: false
   UseHugoToc: false
   hideFooter: false
   CanonicalLinkText: "Originally published at"
