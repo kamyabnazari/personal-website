@@ -27,6 +27,7 @@ params:
   hideSummary: false
   UseHugoToc: false
   hideFooter: false
+  showtoc: true
   CanonicalLinkText: "Originally published at"
   displayFullLangName: false
   comments: false

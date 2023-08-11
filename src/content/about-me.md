@@ -3,7 +3,6 @@ title: "About Me"
 ShowBreadCrumbs: false
 hidemeta: true
 draft: false
-showtoc: true
 ---
 
 ## Experience
