@@ -17,21 +17,21 @@ showCodeCopyButtons = true
 comments = false
 
 [params.label]
-icon = "/website-icon.png"
+icon = "favicons/favicon-header.png"
 iconHeight = 32
 
 [params.profileMode]
 enabled = true
 title = "Kamyab Nazari"
 subtitle = "Everyone has a responsibility to reach one’s true potential."
-imageUrl = "/avatar.jpeg"
+imageUrl = "/profile-avatar.jpeg"
 imageTitle = "Avatar"
 imageWidth = 160
 imageHeight = 160
 
 [[params.profileMode.buttons]]
 name = "About Me"
-url = "/about-me"
+url = "about-me"
 
 [[params.profileMode.buttons]]
 name = "Projects"
@@ -44,6 +44,13 @@ url = "https://www.linkedin.com/in/kamyabnazari"
 [[params.socialIcons]]
 name = "Github"
 url = "https://github.com/kamyabnazari"
+
+[params.assets]
+favicon = "favicons/favicon.ico"
+favicon16x16 = "favicons/favicon-16x16.png"
+favicon32x32 = "favicons/favicon-32x32.png"
+apple_touch_icon = "favicons/apple-touch-icon.png"
+safari_pinned_tab = "favicons/safari-pinned-tab.svg"
 
 # Menu
 
