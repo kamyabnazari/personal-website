@@ -12,3 +12,7 @@ cover:
 ## What is Color Eater?
 
 Color Eater is a demo mobile game project in Godot, serving as a reference for mobile game creation, highlighting features such as UI, scoring, character selection, scene changes, and game loops, particularly for Android and iOS platforms; user feedback shapes its direction, and it's open for community questions and suggestions under an MIT license.
+
+## Where can I find it?
+
+The project repository can be found [here](https://github.com/kamyabnazari/color-eater).

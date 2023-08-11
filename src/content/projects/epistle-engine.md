@@ -13,6 +13,10 @@ cover:
 
 Our platform extracts information from PDFs using OpenAI's GPT model, simplifies document navigation, answers user queries, and generates content based on user prompts.
 
+## Where can I find it?
+
+The project repository can be found [here](https://github.com/kamyabnazari/epistle-engine).
+
 ## Introduction
 
 In today's digital era, efficient interaction with documents is pivotal. Traditional document processing methods have been a source of frustration for many due to the cumbersome nature of locating specific information. Recognizing these challenges, we took a leap towards creating a transformative system: **The Epistle Engine**.
