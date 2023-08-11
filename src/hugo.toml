@@ -18,7 +18,7 @@ comments = false
 
 [params.label]
 icon = "favicons/favicon-header.png"
-iconHeight = 32
+iconHeight = 48
 
 [params.profileMode]
 enabled = true
@@ -26,8 +26,8 @@ title = "Kamyab Nazari"
 subtitle = "Everyone has a responsibility to reach one’s true potential."
 imageUrl = "/profile-avatar.jpeg"
 imageTitle = "Avatar"
-imageWidth = 160
-imageHeight = 160
+imageWidth = 240
+imageHeight = 240
 
 [[params.profileMode.buttons]]
 name = "About Me"
