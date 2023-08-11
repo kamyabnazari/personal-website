@@ -1,9 +1,10 @@
 ---
-title: "Project 1"
+title: "Color Eater"
 date: 2023-08-10T19:06:59+02:00
 draft: false
+weight: 5
 ---
 
-### This is the first project
+### Color Eater Project
 
 This is a test content!
