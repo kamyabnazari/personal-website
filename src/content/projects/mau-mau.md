@@ -1,6 +1,6 @@
 ---
 title: "Mau Mau"
-date: 2023-08-10T19:06:59+02:00
+date: 2023-07-20T19:06:59+02:00
 draft: false
 weight: 2
 cover:

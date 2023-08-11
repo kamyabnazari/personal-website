@@ -1,6 +1,6 @@
 ---
 title: "Retro Magic"
-date: 2023-08-10T19:06:59+02:00
+date: 2022-06-05T19:06:59+02:00
 draft: false
 weight: 4
 cover:

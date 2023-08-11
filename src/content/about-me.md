@@ -79,3 +79,13 @@ Issued by The School of Tagore Gymnasium · May 2016
 
 Award for exceptional social skills and out-of-school activities.  
 [More details](https://aktivitaeten.tagore-gymnasium.de/herausragendes/preistraeger/)
+
+## Languages
+
+| Language | Proficiency                            |
+|----------|----------------------------------------|
+| English  | Full professional proficiency          |
+| German   | Full professional proficiency          |
+| Persian  | Native proficiency                     |
+| French   | Elementary proficiency                 |
+| Slovak   | Elementary proficiency                 |
