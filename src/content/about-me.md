@@ -76,6 +76,7 @@ Tagore Award winner 2016 for in-class and extracurricular engagement.
 
 | Category           | Skills/Technologies                                                                  |
 |------------------------|----------------------------------------------------------------------------------|
+| **IT Skills**          | Microsoft Office, DevOps                            |
 | **Languages**          | Java, JavaScript, SQL, TypeScript, Python, HTML5, CSS                            |
 | **Frameworks & Libraries** | Spring Framework, Vue.js, Svelte, FastAPI, Node.js, Bootstrap, TailwindCSS   |
 | **Databases**          | PostgreSQL, Redis, MySQL, Informix 4GL                                           |
