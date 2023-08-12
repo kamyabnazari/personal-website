@@ -84,10 +84,10 @@ Tagore Award winner 2016 for in-class and extracurricular engagement.
 
 ## Languages
 
-| Language | Proficiency                            |
-|----------|----------------------------------------|
-| English  | Full professional proficiency          |
-| German   | Full professional proficiency          |
-| Persian  | Native proficiency                     |
-| French   | Elementary proficiency                 |
-| Slovak   | Elementary proficiency                 |
+| Language     | Proficiency                            |
+|--------------|----------------------------------------|
+| **English**  | Full professional proficiency          |
+| **German**   | Full professional proficiency          |
+| **Persian**  | Native proficiency                     |
+| **French**   | Elementary proficiency                 |
+| **Slovak**   | Elementary proficiency                 |
