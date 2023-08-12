@@ -8,28 +8,28 @@ draft: false
 ## Experience
 
 ### migRaven GmbH 
-**Student Technical Project Manager**  
+**Technical Project Manager - Work Study**  
 Jan 2023 - Present · 8 mos  
 Berlin, Germany · Hybrid  
 
 As a Technical Project Manager at migRaven GmbH, I efficiently bridge communication between stakeholders and developer teams. My responsibilities encompass coordinating tasks, facilitating decision-making processes, and driving projects towards their objectives, ensuring timely completion with quality standards.
 
 ### Exxeta 
-**Student Software Developer**  
+**Software Developer - Work Study**  
 Jun 2022 - Dec 2022 · 7 mos  
 Berlin, Germany · Hybrid
 
 As a Software Developer at Exxeta, I gained practical experience with Java and the Spring Framework and was responsible for creating APIs, developing controllers and repositories, as well as ensuring software quality through integration and unit tests.
 
 ### Hochschule für Technik und Wirtschaft Berlin 
-**Student Tutor**  
+**Student Tutor - Work Study**  
 Apr 2022 - Aug 2022 · 5 mos  
 Berlin, Germany · On-Site   
 
 As a Student Tutor at Hochschule für Technik und Wirtschaft Berlin, I assisted in the "Angewandte Programmierung" course for B.Sc. Wirtschaftsinformatik students, preparing post-lecture materials and supporting Java Gradle projects.environment for my peers.
 
 ### G&H Bankensoftware AG 
-**Student Software Developer**  
+**Software Developer - Work Study**  
 Jul 2019 - Apr 2021 · 1 yr 10 mos  
 Berlin, Germany · On-Site 
 
@@ -45,7 +45,7 @@ During my internship at Salesforce, I acquired insight into the development and 
 ## Education
 
 ### Hochschule für Technik und Wirtschaft Berlin 
-**Bachelor of Science - BS, Business Informatics**  
+**Bachelor of Science - BS, Business Computing**  
 2021 - 2024  
 
 I am currently pursuing my Bachelor of Science degree in Business Computing at Hochschule für Technik und Wirtschaft Berlin.
