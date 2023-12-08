@@ -2,11 +2,11 @@
 title: "Mau Mau"
 date: 2023-07-20T19:06:59+02:00
 draft: false
-weight: 2
+weight: 4
 cover:
-    image: "project-covers/cover-mau-mau.png"
-    caption: "cover image for Mau Mau"
-    alt: "Mau Mau"
+  image: "project-covers/cover-mau-mau.png"
+  caption: "cover image for Mau Mau"
+  alt: "Mau Mau"
 ---
 
 ## What is Mau Mau?

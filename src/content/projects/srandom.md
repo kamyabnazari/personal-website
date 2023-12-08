@@ -2,11 +2,11 @@
 title: "Srandom"
 date: 2022-08-10T19:06:59+02:00
 draft: false
-weight: 3
+weight: 5
 cover:
-    image: "project-covers/cover-srandom.jpg"
-    caption: "cover image for Srandom"
-    alt: "Srandom"
+  image: "project-covers/cover-srandom.jpg"
+  caption: "cover image for Srandom"
+  alt: "Srandom"
 ---
 
 ## What is Srandom?

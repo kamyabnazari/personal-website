@@ -2,11 +2,11 @@
 title: "Color Eater"
 date: 2022-05-10T19:06:59+02:00
 draft: false
-weight: 5
+weight: 7
 cover:
-    image: "project-covers/cover-color-eater.jpg"
-    caption: "cover image for Color Eater"
-    alt: "Color Eater"
+  image: "project-covers/cover-color-eater.jpg"
+  caption: "cover image for Color Eater"
+  alt: "Color Eater"
 ---
 
 ## What is Color Eater?

@@ -2,11 +2,11 @@
 title: "Retro Magic"
 date: 2022-06-05T19:06:59+02:00
 draft: false
-weight: 4
+weight: 6
 cover:
-    image: "project-covers/cover-retro-magic.jpg"
-    caption: "cover image for Retro Magic"
-    alt: "Retro Magic"
+  image: "project-covers/cover-retro-magic.jpg"
+  caption: "cover image for Retro Magic"
+  alt: "Retro Magic"
 ---
 
 ## What is Retro Magic?
