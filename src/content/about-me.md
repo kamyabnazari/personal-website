@@ -10,7 +10,7 @@ draft: false
 ### migRaven GmbH
 
 **Technical Project Manager - Work Study**  
-Jan 2023 - Present · 8 mos  
+Jan 2023 - Present · 1 yr 1 mos  
 Berlin, Germany · Hybrid
 
 As a Technical Project Manager at migRaven GmbH, I efficiently bridge communication between stakeholders and developer teams. My responsibilities encompass coordinating tasks, facilitating decision-making processes, and driving projects towards their objectives, ensuring timely completion with quality standards.
@@ -71,14 +71,6 @@ At Humboldt-Universität zu Berlin, I embarked on a challenging journey studying
 Mar 2020 - Jun 2020 · 4 mos
 
 In the Spring Semester of 2020, I had the rewarding opportunity to serve as a volunteer teacher at ReDI School of Digital Integration. My primary responsibility involved teaching Digital Literacy, where I helped students understand and utilize digital tools effectively, thereby promoting their confidence and competence in the digital world.
-
-## Honors & Awards
-
-**Tagore Preisträger 2016 (Social Skills)**  
-Issued by The School of Tagore Gymnasium · May 2016
-
-Tagore Award winner 2016 for in-class and extracurricular engagement.
-[More details](https://aktivitaeten.tagore-gymnasium.de/herausragendes/preistraeger/)
 
 ## Skills
 
